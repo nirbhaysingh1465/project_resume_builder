@@ -1,0 +1,6 @@
+{
+  "name": "ProResume Builder - Multi-Category Resume Studio",
+  "description": "Professional multi-category resume & academic CV builder with real-time A4 live preview, ATS optimization, and instant PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
